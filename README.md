@@ -1,4 +1,4 @@
-# final-project
+# Time Series Aggregation and Modeling for Many Stocks in Parallel
 DAT500 Group 27 Final Project, 2022
 
 Here you will find our implementation for the Time Series Aggregation and Modeling for Many Stocks in Parallel project. This project was part of our evaluation and project work in DAT500-1 22V Data intensive systems. This implementation are using a combination of Hadoop with MRJob and Spark to be able to chew through big datasets and predict future stock prices on stocks at Oslo Børs Exchange. This was a group project by Adam J. Becker and Sondre Tennø.
